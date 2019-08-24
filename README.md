@@ -5,7 +5,7 @@ This repository acts as a place to save my notes on Design Patterns.
 I have listed the references that I found immensely useful and I highly recommend them.
 
 **Structural:**
-1. Decorator
+1. [Decorator](structural/decorator)
 2. Bridge
 3. Facade
 4. Proxy
