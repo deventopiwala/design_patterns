@@ -1,0 +1,1 @@
+[Bridge Pattern Description](bridge.md)

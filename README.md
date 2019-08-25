@@ -6,7 +6,7 @@ I have listed the references that I found immensely useful and I highly recommen
 
 **Structural:**
 1. [Decorator](structural/decorator)
-2. Bridge
+2. [Bridge](structural/bridge)
 3. Facade
 4. Proxy
 5. Flyweight
