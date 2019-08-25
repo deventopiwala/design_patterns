@@ -38,3 +38,5 @@ I have listed the references that I found immensely useful and I highly recommen
 2. [Design Patterns videos by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 3. [GoF Book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)
 
+All of the notes is not original writing.
+Some of the texts and examples might be taken from the references.
