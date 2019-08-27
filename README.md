@@ -8,7 +8,7 @@ I have listed the references that I found immensely useful and I highly recommen
 1. [Decorator](structural/decorator)
 2. [Bridge](structural/bridge)
 3. [Facade](structural/facade)
-4. Proxy
+4. [Proxy](structural/proxy)
 5. Flyweight
 6. Composite
 7. Adapter
