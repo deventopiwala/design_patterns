@@ -11,7 +11,7 @@ I have listed the references that I found immensely useful and I highly recommen
 4. [Proxy](structural/proxy)
 5. [Flyweight](structural/flyweight)
 6. [Composite](structural/compostie)
-7. Adapter
+7. [Adapter](structural/adapter)
 
 **Behavioral:**
 1. Mediator
