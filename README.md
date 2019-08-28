@@ -9,7 +9,7 @@ I have listed the references that I found immensely useful and I highly recommen
 2. [Bridge](structural/bridge)
 3. [Facade](structural/facade)
 4. [Proxy](structural/proxy)
-5. Flyweight
+5. [Flyweight](structural/flyweight)
 6. Composite
 7. Adapter
 
