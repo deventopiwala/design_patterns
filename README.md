@@ -10,7 +10,7 @@ I have listed the references that I found immensely useful and I highly recommen
 3. [Facade](structural/facade)
 4. [Proxy](structural/proxy)
 5. [Flyweight](structural/flyweight)
-6. Composite
+6. [Composite](structural/compostie)
 7. Adapter
 
 **Behavioral:**
