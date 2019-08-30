@@ -14,7 +14,7 @@ I have listed the references that I found immensely useful and I highly recommen
 7. [Adapter](structural/adapter)
 
 **Behavioral:**
-1. Mediator
+1. [Mediator](behavioral/mediator)
 2. Memento
 3. State
 4. Template Method
