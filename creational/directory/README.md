@@ -1,0 +1,1 @@
+[Singleton Pattern Description](singleton.md)

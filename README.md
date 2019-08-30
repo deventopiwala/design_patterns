@@ -27,7 +27,7 @@ I have listed the references that I found immensely useful and I highly recommen
 11. Visitor
 
 **Creational:**
-1. Singleton
+1. [Singleton](creational/singleton)
 2. [Factory Method](creational/factory_method)
 3. [Abstract Factory](creational/abstract_factory)
 4. [Builder](creational/builder)
