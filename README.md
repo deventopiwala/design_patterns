@@ -31,7 +31,7 @@ I have listed the references that I found immensely useful and I highly recommen
 2. Factory Method
 3. Abstract Factory
 4. Builder
-5. Prototype
+5. [Prototype](creational/prototype.md)
 
 **References:**
 1. [Refactoring Guru by Alexander Shvets](https://refactoring.guru/)
