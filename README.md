@@ -31,7 +31,7 @@ I have listed the references that I found immensely useful and I highly recommen
 2. [Factory Method](creational/factory_method)
 3. [Abstract Factory](creational/abstract_factory)
 4. [Builder](creational/builder)
-5. [Prototype](creational/prototype.md)
+5. [Prototype](creational/prototype)
 
 **References:**
 1. [Refactoring Guru by Alexander Shvets](https://refactoring.guru/)
