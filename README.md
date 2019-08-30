@@ -30,7 +30,7 @@ I have listed the references that I found immensely useful and I highly recommen
 1. Singleton
 2. [Factory Method](creational/factory_method)
 3. [Abstract Factory](creational/abstract_factory)
-4. Builder
+4. [Builder](creational/builder)
 5. [Prototype](creational/prototype.md)
 
 **References:**
