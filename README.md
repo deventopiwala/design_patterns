@@ -28,7 +28,7 @@ I have listed the references that I found immensely useful and I highly recommen
 
 **Creational:**
 1. Singleton
-2. Factory Method
+2. [Factory Method](creational/factory_method)
 3. Abstract Factory
 4. Builder
 5. [Prototype](creational/prototype.md)
