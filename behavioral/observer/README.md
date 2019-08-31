@@ -1,1 +1,1 @@
-[Observer Pattern Description](memento.md)
+[Observer Pattern Description](observer.md)
