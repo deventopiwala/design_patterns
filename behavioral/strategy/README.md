@@ -1,0 +1,1 @@
+[Strategy Pattern Description](strategy.md)
