@@ -75,4 +75,16 @@ existing client code.
 1. The code may become complicated since you are introducing a new layer 
 between the senders and receivers.
 
+
+**Comparison:**
+
+1. Command strategy may look similar because you can use both to parameterize
+an object with some action. However, they have different intent.
+2. You can use command to convert any operation into an object. The operation
+parameters become field of that object. The conversion lets you defer
+execution, queue it, store the history of commands, etc.
+3. On the other hand, strategy usually describes different ways of doing
+the same thing, letting you swap these algorithms withing a single context
+class.
+4. Think of command as an object and strategy as algorithm.
  
