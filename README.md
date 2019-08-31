@@ -21,7 +21,7 @@ I have listed the references that I found immensely useful and I highly recommen
 5. [Strategy](behavioral/strategy)
 6. [Iterator](behavioral/iterator)
 7. [Command](behavioral/command)
-8. Observer
+8. [Observer](behavioral/observer)
 9. Chain of Responsibility
 10. Null Object
 11. Visitor
