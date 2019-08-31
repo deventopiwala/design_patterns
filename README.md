@@ -17,7 +17,7 @@ I have listed the references that I found immensely useful and I highly recommen
 1. [Mediator](behavioral/mediator)
 2. [Memento](behavioral/memento)
 3. [State](behavioral/state)
-4. Template Method
+4. [Template Method](behavioral/template_method)
 5. Strategy
 6. Iterator
 7. Command
