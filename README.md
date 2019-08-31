@@ -15,7 +15,7 @@ I have listed the references that I found immensely useful and I highly recommen
 
 **Behavioral:**
 1. [Mediator](behavioral/mediator)
-2. Memento
+2. [Memento](behavioral/memento)
 3. State
 4. Template Method
 5. Strategy
