@@ -19,7 +19,7 @@ I have listed the references that I found immensely useful and I highly recommen
 3. [State](behavioral/state)
 4. [Template Method](behavioral/template_method)
 5. [Strategy](behavioral/strategy)
-6. Iterator
+6. [Iterator](behavioral/iterator)
 7. Command
 8. Observer
 9. Chain of Responsibility
