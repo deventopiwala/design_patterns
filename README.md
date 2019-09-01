@@ -22,7 +22,7 @@ I have listed the references that I found immensely useful and I highly recommen
 6. [Iterator](behavioral/iterator)
 7. [Command](behavioral/command)
 8. [Observer](behavioral/observer)
-9. Chain of Responsibility
+9. [Chain of Responsibility](behavioral/chain_of_responsibility)
 10. Null Object
 11. Visitor
 

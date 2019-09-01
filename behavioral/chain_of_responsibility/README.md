@@ -1,0 +1,1 @@
+[Chain Of Responsibility Pattern Description](chain_of_responsibility.md)
