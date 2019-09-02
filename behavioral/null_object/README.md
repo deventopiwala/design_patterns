@@ -1,0 +1,1 @@
+[Null Object Pattern Description](null_object.md)
